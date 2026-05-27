@@ -174,7 +174,7 @@ export default function Index() {
               <div className="text-xs font-medium leading-none" style={{ color: "var(--text-secondary)", fontFamily: "'IBM Plex Sans', sans-serif" }}>
                 ГОРПАССТРАНС
               </div>
-              <div className="text-xs" style={{ color: "var(--text-secondary)", opacity: 0.6 }}>г. Новоград</div>
+              <div className="text-xs" style={{ color: "var(--text-secondary)", opacity: 0.6 }}>г. Москва</div>
             </div>
           </div>
           <div className="flex items-center gap-3">

@@ -19,6 +19,7 @@ const INITIAL_ROUTES: Route[] = [
   { id: 3, number: "37", type: "bus", direction: "Больница №2", minutes: 8, status: "delayed", delayMin: 3, lowFloor: true, cardPay: false },
   { id: 4, number: "5Т", type: "trolley", direction: "Рынок Центральный", minutes: 11, status: "ontime", lowFloor: false, cardPay: true },
   { id: 5, number: "102", type: "bus", direction: "Аэропорт", minutes: 17, status: "ontime", lowFloor: true, cardPay: true },
+  { id: 6, number: "М5", type: "bus", direction: "Москва / Казанский вокзал", minutes: 23, status: "ontime", lowFloor: true, cardPay: true },
 ];
 
 const TYPE_LABEL: Record<string, string> = {
